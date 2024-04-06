@@ -1,0 +1,60 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+nav{
+    background-color: #28A745;
+}
+.nav-link{
+    color: #a7d7ac;
+}
+.precionormal {
+    
+    font-size: 16px;
+    font-weight: 300;
+    word-spacing: 19px;
+} 
+.preciooferta  {
+    font-size: 20px;
+    font-weight: 500;
+    word-spacing: 24px;
+}
+
+h2.card-title{
+    font-size: 20px;
+    color: #212529 ;
+    font-weight: 300;
+}
+.text-muted {
+    font-size: 13px;
+    color: #707070;
+    font-weight: 300;
+}
+.card-text {
+    font-size: 16px;
+    color: #707070;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
+form {
+    background-color: #28A745;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+}
+
+footer img {
+    display: block;
+    margin: auto;
+    width: 82px;
+    height: 24px;
+    
+}
+
+footer p {
+    color: #707070;
+    font-style: light;
+    text-align: center;
+    size: 16px;
+}
